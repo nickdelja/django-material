@@ -6,6 +6,10 @@ html, body {
 body {
   background: #eee; }
 
+nav {
+    background-color: #424242 !important;
+}
+
 nav ul a:hover {
   background-color: transparent; }
 
@@ -15,7 +19,7 @@ nav ul a span.badge {
 
 .breadcrumbs {
   color: #fff;
-  background: #357a38; }
+  background: #d32f2f; }
 
 th {
   font-weight: 300; }
@@ -25,7 +29,7 @@ th {
 
 .side-nav.fixed .logo {
   height: 150px;
-  background-color: #357a38; }
+  background-color: #c62828; }
 
 .side-nav.fixed .logo a {
   margin-left: auto;
