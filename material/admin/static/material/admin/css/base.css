@@ -13,8 +13,9 @@ body {
   content: "\e8b9"; }
 
 nav {
-    color: #fff;
-    background-color: #4caf50;
+    background-color: #f44336 !important;
+}
+
 th {
   font-weight: 300; }
 
