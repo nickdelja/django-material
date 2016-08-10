@@ -11,7 +11,7 @@ class MaterialAdminConfig(ModuleMixin, AppConfig):
     name = 'material.admin'
     label = "material_admin"
 
-    icon = 'Logicuity'
+    icon = '<i class="material-icons">settings_application</i>'
     verbose_name = _("Administration")
     order = 1000
 
