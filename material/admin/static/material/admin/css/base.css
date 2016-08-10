@@ -115,7 +115,7 @@ ul.side-nav.module-menu li.active > a > span.badge {
   color: #ffffff; }
 
 .side-nav.fixed .collapsible-body li.active.header {
-  background-color: #388E3C;
+  background-color: #f44336;
   border-bottom: 1px solid #eee; }
 
 .side-nav.fixed .collapsible-body li.active.header > a {
@@ -132,7 +132,7 @@ ul.side-nav.module-menu li.active > a > span.badge {
 */
 .breadcrumbs {
   color: #fff;
-  background: #357a38; }
+  background: #d32f2f; }
 
 .breadcrumbs div {
   height: 48px;
