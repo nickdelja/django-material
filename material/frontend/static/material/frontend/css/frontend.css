@@ -36,6 +36,16 @@ th {
   margin-right: auto;
   display: table; }
 
+.side-nav.fixed.module-menu li.logo a {
+    color: white;
+    display: table;
+    font-size: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    white-space: normal;
+}
+
 .side-nav.fixed .logo a img {
   display: table-cell; }
 
