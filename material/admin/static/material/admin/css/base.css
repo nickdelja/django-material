@@ -12,6 +12,9 @@ body {
 .admin-modelicon:before {
   content: "\e8b9"; }
 
+nav {
+    color: #fff;
+    background-color: #4caf50;
 th {
   font-weight: 300; }
 
