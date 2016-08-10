@@ -109,7 +109,7 @@ ul.side-nav.module-menu .collapsible-header i.material-icons {
   padding-left: 4rem; }
 
 ul.side-nav.module-menu .collapsible-body li.active, .side-nav.fixed .collapsible-body li.active {
-  background: #4CAF50; }
+  background: #f44336; }
 
 ul.side-nav.module-menu li.active > a > span.badge {
   color: #ffffff; }
