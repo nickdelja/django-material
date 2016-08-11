@@ -27,14 +27,6 @@ th {
 .page-title {
   display: inline; }
 
-@media only screen and (min-width: 992px)
-.page-title {
-    font-size: 1.6rem;
-    font-weight: 300;
-    position: relative;
-    top: 5px;
-    text-transform: uppercase;
-}
 .side-nav.fixed .logo {
   height: 150px;
   background-color: #c62828; }
@@ -201,7 +193,7 @@ ul.side-nav.module-menu li.active > a > span.badge {
   main {
     margin-left: 240px;
     height: calc(100% - 80px); }
-  .page-title a {
+  .page-title {
     padding-left: 270px;
     font-size: 1.6rem;
     font-weight: 300;
