@@ -27,6 +27,14 @@ th {
 .page-title {
   display: inline; }
 
+@media only screen and (min-width: 992px)
+.page-title {
+    font-size: 1.6rem;
+    font-weight: 300;
+    position: relative;
+    top: 5px;
+    text-transform: uppercase;
+}
 .side-nav.fixed .logo {
   height: 150px;
   background-color: #c62828; }
